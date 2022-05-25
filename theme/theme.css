@@ -1,0 +1,69 @@
+﻿body{
+    font-family: Microsoft Yahei,Arial,sans-serif;
+}
+/*
+.bg-dark {
+    background-color: #f3d023!important;
+}
+.navbar-dark .navbar-brand {
+    color: black;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.8);
+}
+.navbar-dark .navbar-toggler {
+    border-color: rgba(14, 8, 8, 0.75);
+}
+*/
+.link{
+    padding-left: 0.3em;
+}
+P{
+    font-size: 12px;
+}
+.link li{
+    list-style: none;
+    margin-right: 0.6em;
+    margin-bottom: 0.4em;
+    float: left;
+    width: 14em;
+    padding: 0;
+}
+table{
+    border: 0 solid transparent !important;
+    margin-bottom: 0!important;
+    font-size: 13px;
+
+}
+.container {
+    margin-top: 4.8em;
+}
+.title{
+    background: #012622;
+    padding: 0.1em;
+    border-radius: 0.6em;
+    text-align: center;
+    color: #f0e9e7;
+    width: 6em;
+    margin-right: 2em;
+}
+a{
+    color: black;
+}
+table td, table th {
+    border: none!important;
+    padding:0.1em!important;
+
+}
+.page_title{
+    margin-bottom: 0.8em;
+    font-weight: bold;
+}
+
+#about-zuli p{
+    margin:0.1em;
+    padding: 0.2em;
+}
+#about-zuli h6{
+    margin: 0.8em auto 0.4em auto;
+}
