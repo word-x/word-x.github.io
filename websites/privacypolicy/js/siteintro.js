@@ -1,0 +1,1 @@
+document.write('<p><b>Author</b>&nbsp;:&nbsp;Word-X Lab</p><p><b>Description</b>:<br>General privacy policy for apps by Word-X Lab.</p><p><b>Keywords</b>&nbsp;:&nbsp;Word-X Lab, Privacy policy, New HSK Vocabulary 1-9 app</p><p><b>Update Time</b>&nbsp;:&nbsp;10/7/2022 01:12:00</p><script src="../../adcodes/SiteIntroBottom.js"></script>')
